@@ -1,0 +1,24 @@
+{
+	"status": {
+		"code": "0",
+		"result": true,
+		"reason": "OK"
+	},
+	"tininfo": {
+		"FEIN": "123456789",
+		"orgs": [
+			{
+				"ID": "OXFORD:690000022",
+				"orgName": "Berkley Southeast Insurance Group"
+			},
+			{
+				"ID": "OXFORD:690000023",
+				"orgName": "EHSC"
+			},
+			{
+				"ID": "OXFORD:690000024",
+				"orgName": "North Carolina League of Municipalities"
+			}
+		]
+	}
+}
